@@ -1,20 +1,22 @@
 {
-"name": "paytm-nodejs",
-    "version": "1.0.0",
-    "description": "",
-    "scripts": {
-        "build": "No build specified\" && exit 1",
-        "test": "No test specified\" && exit 1",
-        "start": "main.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/M8ZOPPP/paytm-nodejs.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/M8ZOPPP/paytm-nodejs/issues"
-    },
-    "homepage": "https://github.com/M8ZOPPP/paytm-nodejs#readme"
+  "name": "starter-express-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyclic-software/starter-express-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyclic-software/starter-express-api/issues"
+  },
+  "homepage": "https://github.com/cyclic-software/starter-express-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
