@@ -1,7 +1,7 @@
 {
   "name": "starter-express-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Built By M8Z",
   "main": "index.js",
   "scripts": {
     "start": "main.js"
